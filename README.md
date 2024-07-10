@@ -4,6 +4,17 @@
 
 Preparing for placements in Computer Science requires a comprehensive approach that covers both technical and soft skills. This document provides a curated list of resources, including websites and GitHub repositories, to aid in your preparation for on-campus and off-campus placements.
 
+# Some fundamental Notes for quick revision
+
+These are the resources being written and maintained by few seniors.
+
+> Mega Notes Link - [Click here](https://github.com/DeathStroke19891/CP_Notes)
+
+1. [Sridhar Kedlaya](https://github.com/DeathStroke19891) - [LinkedIn](https://www.linkedin.com/in/sridhar-d-kedlaya-92b928232/)
+2. [Krishnatejaswi S](https://github.com/KTS-o7) - [LinkedIn](https://in.linkedin.com/in/krishnatejaswi-shenthar)
+3. [Likhith](https://github.com/using-namespace-lyx) - [LinkedIn](https://www.linkedin.com/in/likhith1310/)
+4. [Vinayak C](https://github.com/vinayak-C12) - [LinkedIn](https://www.linkedin.com/in/vinayak-c-38ba1a263/)
+
 ## Key Areas of Focus
 
 ### Programming Languages
@@ -104,6 +115,12 @@ Preparing for placements in Computer Science requires a comprehensive approach t
 | [JyotiKumari2/Crack-Your-Placement](https://github.com/JyotiKumari2/Crack-Your-Placement)                 | Focuses on DSA, problem-solving, competitive programming, and CS fundamentals. |
 
 ## Additional Resources
+
+### Few good Github Links
+
+| Repository                                                                                         | Description                                                                             |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Kunal Kushwaha's Repository](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) | Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving |
 
 ### Books
 
